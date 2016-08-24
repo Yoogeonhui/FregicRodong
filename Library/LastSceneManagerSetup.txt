@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/0_Scenes/1_play_YSC.unity
+  isLoaded: 1
+  isActive: 1
